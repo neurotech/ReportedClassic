@@ -85,10 +85,10 @@ addon.moduleText["Gandalf"] = {
     ["Description"] = "Gandalf really hates swear words",
     "A wizard never swears %pl baggins he says precisely what he means, and you swore, reported!",
     "Some who live deserve to swear and some who die deserve not to swear, who are you to give it to them %pl?",
-    "%Pl shall not pass..... the test of good in game behaviour- gandalf 1994",
+    "%Pl shall not pass..... the test of good in game behaviour - gandalf 1994",
     "RIDERS OF ROHAN I AM GANDALF. I HAVE HERE THE HEAD OF %Pl. HE JUST COULDNT STOP SWEARING",
-    "psst you swore %pl time for me to kill u...................-gandalf the gray of ISENGUARD",
-    "mm yes this is interesting this scroll here whats this!?!? it says here %pl swore... i must consult sarumon- gandalf 2003"
+    "psst you swore %pl time for me to kill u................... - gandalf the gray of ISENGUARD",
+    "mm yes this is interesting this scroll here whats this!?!? it says here %pl swore... i must consult sarumon - gandalf 2003"
 }
 addon.moduleText["Censor"] = {
     ["Description"] = "Good thing you caught yourself swearing!",
@@ -135,7 +135,8 @@ addon.moduleText["Troll"] = {
     "Halo is the greatest video game character ever, and %Pl is the worst swearer ever!",
     "You know why they call it a %pl 360? cuz when they swear you turn 360 degrees and walk away",
     "michael jorden is moonwalkin in his grave because of what %Pl just said",
-    "-6 x 6 x 6 = 0, and swearing + bad at this game + 12 = %Pl"
+    "-6 x 6 x 6 = 0, and swearing + bad at this game + 12 = %Pl",
+    "It's crazy to think WoW was the first MMO, and sad to see %Pl saying a swear word. *Sigh*. Reported."
 }
 addon.moduleText["Normal"] = {
     ["Description"] = "Please, Don't Troll.",
