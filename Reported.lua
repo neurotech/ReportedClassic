@@ -62,7 +62,7 @@ local defaults = {
     "%An+%s*i+%s*gg+%s*e+%s*[ra]+", -- [8]
     "%Ac+%s*u+%s*n+%s*t+", -- [9]
     "%Ab+%s*i+%s*t*%s*c+%s*h+", -- [10]
-	"%Af+%s*u+%s*c+%s*k+%s*i+%s*n+%s*g+", -- [11]
+	  "%Af+%s*u+%s*c+%s*k+%s*i+%s*n+%s*g+", -- [11]
     "%Ad+%s*o+%s*u+%s*c+%s*h+%s*e+", -- [12]
     "%Aa+%s*s+%s*h+%s*o+%s*l+%s*e+", -- [13]
     "%Aa%s*s%s*s+%A", -- [14]
@@ -75,6 +75,7 @@ local defaults = {
     "d+%s*a+%s*mm*%s*i+%s*t+", -- [21]
     "%Ad+%s*a+%s*r+%s*n+%A", -- [22]
     "%Aranga%A", -- [23]
+    "%As%s*l%s*g%s*u%s*t%A", -- [24]
   }
 }
 local events = {
